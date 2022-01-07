@@ -15,8 +15,8 @@
 	
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tpmsh-git" alt="Views on Profile"> </p>
 <p align="center">
-<img width="420px" height="150px" src="https://github-readme-stats.vercel.app/api?username=tpmsh-git&count_private=true&show_icons=true&theme=radical" alt="GitHub Status">
-<img width="420px" height="150px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tpmsh-git&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
+<img width="430px" height="160px" src="https://github-readme-stats.vercel.app/api?username=tpmsh-git&count_private=true&show_icons=true&theme=radical" alt="GitHub Status">
+<img width="430px" height="160px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tpmsh-git&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
 </p>
 
-<p align="center"> <img height="300px" width="800px" src="https://github-readme-streak-stats.herokuapp.com?user=tpmsh-git&theme=dark&hide_border=true"> </p>
+<p align="center"> <img height="280px" width="900px" src="https://github-readme-streak-stats.herokuapp.com?user=tpmsh-git&theme=dark&hide_border=true"> </p>
