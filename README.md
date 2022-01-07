@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prathamesh Thakre!</h1>
+<h1 align="center">Hi 👋 I'm Prathamesh Thakre!</h1>
 <p align="center">
 	<a href="mailto:prathmesh613@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 	<a href="https://www.linkedin.com/in/tpmsh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -15,8 +15,8 @@
 	
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tpmsh-git" alt="Views on Profile"> </p>
 <p align="center">
-<img width="450px" height="160px" src="https://github-readme-stats.vercel.app/api?username=tpmsh-git&count_private=true&show_icons=true&theme=radical" alt="GitHub Status">
-<img width="450px" height="160px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tpmsh-git&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
+<img width="420px" height="150px" src="https://github-readme-stats.vercel.app/api?username=tpmsh-git&count_private=true&show_icons=true&theme=radical" alt="GitHub Status">
+<img width="420px" height="150px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tpmsh-git&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
 </p>
 
-<p align="center"> <img width = 400 src="https://github-readme-streak-stats.herokuapp.com?user=tpmsh-git&theme=dark&hide_border=true"> </p>
+<p align="center"> <img height="300px" width="800px" src="https://github-readme-streak-stats.herokuapp.com?user=tpmsh-git&theme=dark&hide_border=true"> </p>
