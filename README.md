@@ -20,4 +20,4 @@
 <img width="420px" height="160px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tpmsh-git&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
 </p>
 
-<p align="center"> <img width="900px" src="https://github-readme-streak-stats.herokuapp.com?user=tpmsh-git&theme=dark&hide_border=true"> </p>
+<p align="center"> <img width="900px" height="300px" src="https://github-readme-streak-stats.herokuapp.com?user=tpmsh-git&theme=dark&hide_border=true"> </p>
